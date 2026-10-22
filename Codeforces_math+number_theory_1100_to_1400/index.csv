@@ -1,0 +1,41 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+483,A,Counterexample ,1100,brute force;implementation;math;number theory,https://codeforces.com/problemset/problem/483/A,[1100]_483A_Counterexample.pdf,OK
+633,A,Ebony and Ivory,1100,brute force;math;number theory,https://codeforces.com/problemset/problem/633/A,[1100]_633A_Ebony_and_Ivory.pdf,OK
+682,A,Alyona and Numbers,1100,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/682/A,[1100]_682A_Alyona_and_Numbers.pdf,OK
+797,A,k-Factorization,1100,implementation;math;number theory,https://codeforces.com/problemset/problem/797/A,[1100]_797A_k-Factorization.pdf,OK
+946,B,Weird Subtraction Process,1100,math;number theory,https://codeforces.com/problemset/problem/946/B,[1100]_946B_Weird_Subtraction_Process.pdf,OK
+1108,B,Divisors of Two Integers,1100,brute force;greedy;math;number theory,https://codeforces.com/problemset/problem/1108/B,[1100]_1108B_Divisors_of_Two_Integers.pdf,OK
+1166,B,All the Vowels Please,1100,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1166/B,[1100]_1166B_All_the_Vowels_Please.pdf,OK
+1370,B,GCD Compression,1100,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1370/B,[1100]_1370B_GCD_Compression.pdf,OK
+1826,B,Lunatic Never Content,1100,math;number theory,https://codeforces.com/problemset/problem/1826/B,[1100]_1826B_Lunatic_Never_Content.pdf,OK
+1872,C,Non-coprime Split,1100,math;number theory,https://codeforces.com/problemset/problem/1872/C,[1100]_1872C_Non-coprime_Split.pdf,OK
+361,B,Levko and Permutation,1200,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/361/B,[1200]_361B_Levko_and_Permutation.pdf,OK
+787,A,The Monster,1200,brute force;math;number theory,https://codeforces.com/problemset/problem/787/A,[1200]_787A_The_Monster.pdf,OK
+1076,B,Divisor Subtraction,1200,implementation;math;number theory,https://codeforces.com/problemset/problem/1076/B,[1200]_1076B_Divisor_Subtraction.pdf,OK
+1133,B,Preparation for International Women's Day,1200,math;number theory,https://codeforces.com/problemset/problem/1133/B,[1200]_1133B_Preparation_for_International_Women's_Day.pdf,OK
+1184,A1,Heidi Learns Hashing (Easy),1200,brute force;math;number theory,https://codeforces.com/problemset/problem/1184/A1,[1200]_1184A1_Heidi_Learns_Hashing_(Easy).pdf,OK
+1736,B,Playing with GCD,1200,math;number theory,https://codeforces.com/problemset/problem/1736/B,[1200]_1736B_Playing_with_GCD.pdf,OK
+1982,B,Collatz Conjecture,1200,brute force;implementation;math;number theory,https://codeforces.com/problemset/problem/1982/B,[1200]_1982B_Collatz_Conjecture.pdf,OK
+2181,H,Honey Cake,1200,brute force;math;number theory,https://codeforces.com/problemset/problem/2181/H,[1200]_2181H_Honey_Cake.pdf,OK
+371,B,Fox Dividing Cheese,1300,math;number theory,https://codeforces.com/problemset/problem/371/B,[1300]_371B_Fox_Dividing_Cheese.pdf,OK
+573,A,Bear and Poker,1300,implementation;math;number theory,https://codeforces.com/problemset/problem/573/A,[1300]_573A_Bear_and_Poker.pdf,OK
+840,A,Leha and Function,1300,combinatorics;greedy;math;number theory;sortings,https://codeforces.com/problemset/problem/840/A,[1300]_840A_Leha_and_Function.pdf,OK
+870,C,Maximum splitting,1300,dp;greedy;math;number theory,https://codeforces.com/problemset/problem/870/C,[1300]_870C_Maximum_splitting.pdf,OK
+1155,C,Alarm Clocks Everywhere,1300,math;number theory,https://codeforces.com/problemset/problem/1155/C,[1300]_1155C_Alarm_Clocks_Everywhere.pdf,OK
+1294,C,Product of Three Numbers,1300,greedy;math;number theory,https://codeforces.com/problemset/problem/1294/C,[1300]_1294C_Product_of_Three_Numbers.pdf,OK
+1372,B,Omkar and Last Class of Math,1300,greedy;math;number theory,https://codeforces.com/problemset/problem/1372/B,[1300]_1372B_Omkar_and_Last_Class_of_Math.pdf,OK
+1407,B,Big Vova,1300,brute force;greedy;math;number theory,https://codeforces.com/problemset/problem/1407/B,[1300]_1407B_Big_Vova.pdf,OK
+1521,B,Nastia and a Good Array,1300,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1521/B,[1300]_1521B_Nastia_and_a_Good_Array.pdf,OK
+1850,F,We Were Both Children,1300,brute force;implementation;math;number theory,https://codeforces.com/problemset/problem/1850/F,[1300]_1850F_We_Were_Both_Children.pdf,OK
+2031,C,Penchick and BBQ Buns,1300,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/2031/C,[1300]_2031C_Penchick_and_BBQ_Buns.pdf,OK
+150,A,Win or Freeze,1400,games;math;number theory,https://codeforces.com/problemset/problem/150/A,[1400]_150A_Win_or_Freeze.pdf,OK
+937,B,Vile Grasshoppers,1400,brute force;math;number theory,https://codeforces.com/problemset/problem/937/B,[1400]_937B_Vile_Grasshoppers.pdf,OK
+1200,C,Round Corridor,1400,math;number theory,https://codeforces.com/problemset/problem/1200/C,[1400]_1200C_Round_Corridor.pdf,OK
+1266,C,Diverse Matrix,1400,constructive algorithms;greedy;math;number theory,https://codeforces.com/problemset/problem/1266/C,[1400]_1266C_Diverse_Matrix.pdf,OK
+1312,C,Adding Powers,1400,bitmasks;greedy;implementation;math;number theory;ternary search,https://codeforces.com/problemset/problem/1312/C,[1400]_1312C_Adding_Powers.pdf,OK
+1980,D,GCD-sequence,1400,greedy;implementation;math;number theory,https://codeforces.com/problemset/problem/1980/D,[1400]_1980D_GCD-sequence.pdf,OK
+2008,F,Sakurako's Box,1400,combinatorics;math;number theory,https://codeforces.com/problemset/problem/2008/F,[1400]_2008F_Sakurako's_Box.pdf,OK
+2104,D,Array and GCD,1400,binary search;greedy;math;number theory,https://codeforces.com/problemset/problem/2104/D,[1400]_2104D_Array_and_GCD.pdf,OK
+2156,C,Maximum GCD on Whiteboard,1400,greedy;math;number theory,https://codeforces.com/problemset/problem/2156/C,[1400]_2156C_Maximum_GCD_on_Whiteboard.pdf,OK
+2219,A,Grid L,1400,brute force;constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/2219/A,[1400]_2219A_Grid_L.pdf,OK
+2244,E,Masha and the Garland,1400,data structures;dp;greedy;implementation;math;number theory;strings,https://codeforces.com/problemset/problem/2244/E,[1400]_2244E_Masha_and_the_Garland.pdf,OK
