@@ -1,0 +1,61 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+181,A,Series of Crimes,800,brute force;geometry;implementation,https://codeforces.com/problemset/problem/181/A,[800]_181A_Series_of_Crimes.pdf,OK
+278,A,Circle Line,800,implementation,https://codeforces.com/problemset/problem/278/A,[800]_278A_Circle_Line.pdf,OK
+330,A,Cakeminator,800,brute force;implementation,https://codeforces.com/problemset/problem/330/A,[800]_330A_Cakeminator.pdf,OK
+344,A,Magnets,800,implementation,https://codeforces.com/problemset/problem/344/A,[800]_344A_Magnets.pdf,OK
+658,A,Bear and Reverse Radewoosh,800,implementation,https://codeforces.com/problemset/problem/658/A,[800]_658A_Bear_and_Reverse_Radewoosh.pdf,OK
+750,A,New Year and Hurry,800,binary search;brute force;implementation;math,https://codeforces.com/problemset/problem/750/A,[800]_750A_New_Year_and_Hurry.pdf,OK
+764,A,Taymyr is calling you,800,brute force;implementation;math,https://codeforces.com/problemset/problem/764/A,[800]_764A_Taymyr_is_calling_you.pdf,OK
+831,B,Keyboard Layouts,800,implementation;strings,https://codeforces.com/problemset/problem/831/B,[800]_831B_Keyboard_Layouts.pdf,OK
+910,A,The Way to Home,800,dfs and similar;dp;greedy;implementation,https://codeforces.com/problemset/problem/910/A,[800]_910A_The_Way_to_Home.pdf,OK
+931,A,Friends Meeting,800,brute force;greedy;implementation;math,https://codeforces.com/problemset/problem/931/A,[800]_931A_Friends_Meeting.pdf,OK
+937,A,Olympiad,800,implementation;sortings,https://codeforces.com/problemset/problem/937/A,[800]_937A_Olympiad.pdf,OK
+976,A,Minimum Binary Number,800,implementation,https://codeforces.com/problemset/problem/976/A,[800]_976A_Minimum_Binary_Number.pdf,OK
+988,A,Diverse Team,800,brute force;implementation,https://codeforces.com/problemset/problem/988/A,[800]_988A_Diverse_Team.pdf,OK
+1056,A,Determine Line,800,implementation,https://codeforces.com/problemset/problem/1056/A,[800]_1056A_Determine_Line.pdf,OK
+1092,A,Uniform String,800,implementation,https://codeforces.com/problemset/problem/1092/A,[800]_1092A_Uniform_String.pdf,OK
+1243,A,Maximum Square,800,implementation,https://codeforces.com/problemset/problem/1243/A,[800]_1243A_Maximum_Square.pdf,OK
+1284,A,New Year and Naming,800,implementation;strings,https://codeforces.com/problemset/problem/1284/A,[800]_1284A_New_Year_and_Naming.pdf,OK
+1323,A,Even Subset Sum Problem,800,brute force;dp;greedy;implementation,https://codeforces.com/problemset/problem/1323/A,[800]_1323A_Even_Subset_Sum_Problem.pdf,OK
+1644,B,Anti-Fibonacci Permutation,800,brute force;constructive algorithms;implementation,https://codeforces.com/problemset/problem/1644/B,[800]_1644B_Anti-Fibonacci_Permutation.pdf,OK
+1698,B,Rising Sand,800,constructive algorithms;greedy;implementation,https://codeforces.com/problemset/problem/1698/B,[800]_1698B_Rising_Sand.pdf,OK
+1728,A,Colored Balls: Revisited,800,brute force;greedy;implementation;sortings,https://codeforces.com/problemset/problem/1728/A,[800]_1728A_Colored_Balls__Revisited.pdf,OK
+1772,B,Matrix Rotation,800,brute force;implementation,https://codeforces.com/problemset/problem/1772/B,[800]_1772B_Matrix_Rotation.pdf,OK
+1778,A,Flip Flop Sum,800,greedy;implementation,https://codeforces.com/problemset/problem/1778/A,[800]_1778A_Flip_Flop_Sum.pdf,OK
+1789,B,Serval and Inversion Magic,800,brute force;implementation;strings;two pointers,https://codeforces.com/problemset/problem/1789/B,[800]_1789B_Serval_and_Inversion_Magic.pdf,OK
+1791,C,Prepend and Append,800,implementation;two pointers,https://codeforces.com/problemset/problem/1791/C,[800]_1791C_Prepend_and_Append.pdf,OK
+1864,A,Increasing and Decreasing,800,constructive algorithms;greedy;implementation;math,https://codeforces.com/problemset/problem/1864/A,[800]_1864A_Increasing_and_Decreasing.pdf,OK
+1873,C,Target Practice,800,implementation;math,https://codeforces.com/problemset/problem/1873/C,[800]_1873C_Target_Practice.pdf,OK
+1915,A,Odd One Out,800,bitmasks;implementation,https://codeforces.com/problemset/problem/1915/A,[800]_1915A_Odd_One_Out.pdf,OK
+1926,B,Vlad and Shapes,800,geometry;implementation,https://codeforces.com/problemset/problem/1926/B,[800]_1926B_Vlad_and_Shapes.pdf,OK
+1950,C,Clock Conversion,800,implementation;math,https://codeforces.com/problemset/problem/1950/C,[800]_1950C_Clock_Conversion.pdf,OK
+1971,A,My First Sorting Problem,800,implementation;sortings,https://codeforces.com/problemset/problem/1971/A,[800]_1971A_My_First_Sorting_Problem.pdf,OK
+1971,B,Different String,800,implementation;strings,https://codeforces.com/problemset/problem/1971/B,[800]_1971B_Different_String.pdf,OK
+1974,B,Symmetric Encoding,800,implementation;sortings;strings,https://codeforces.com/problemset/problem/1974/B,[800]_1974B_Symmetric_Encoding.pdf,OK
+2037,A,Twice,800,implementation,https://codeforces.com/problemset/problem/2037/A,[800]_2037A_Twice.pdf,OK
+2134,A,Painting With Two Colors,800,constructive algorithms;implementation;math,https://codeforces.com/problemset/problem/2134/A,[800]_2134A_Painting_With_Two_Colors.pdf,OK
+2161,A,Round Trip,800,games;greedy;implementation;math,https://codeforces.com/problemset/problem/2161/A,[800]_2161A_Round_Trip.pdf,OK
+2227,A,Koshary,800,implementation;math,https://codeforces.com/problemset/problem/2227/A,[800]_2227A_Koshary.pdf,OK
+137,A,Postcards and photos,900,implementation,https://codeforces.com/problemset/problem/137/A,[900]_137A_Postcards_and_photos.pdf,OK
+205,A,Little Elephant and Rozdil,900,brute force;implementation,https://codeforces.com/problemset/problem/205/A,[900]_205A_Little_Elephant_and_Rozdil.pdf,OK
+834,A,The Useless Toy,900,implementation,https://codeforces.com/problemset/problem/834/A,[900]_834A_The_Useless_Toy.pdf,OK
+1201,A,Important Exam,900,implementation;strings,https://codeforces.com/problemset/problem/1201/A,[900]_1201A_Important_Exam.pdf,OK
+1337,B,Kana and Dragon Quest game,900,greedy;implementation;math,https://codeforces.com/problemset/problem/1337/B,[900]_1337B_Kana_and_Dragon_Quest_game.pdf,OK
+1918,B,Minimize Inversions,900,constructive algorithms;data structures;greedy;implementation;sortings,https://codeforces.com/problemset/problem/1918/B,[900]_1918B_Minimize_Inversions.pdf,OK
+1985,D,Manhattan Circle,900,implementation;math,https://codeforces.com/problemset/problem/1985/D,[900]_1985D_Manhattan_Circle.pdf,OK
+69,A,Young Physicist,1000,implementation;math,https://codeforces.com/problemset/problem/69/A,[1000]_69A_Young_Physicist.pdf,OK
+368,A,Sereja and Coat Rack,1000,implementation,https://codeforces.com/problemset/problem/368/A,[1000]_368A_Sereja_and_Coat_Rack.pdf,OK
+379,A,New Year Candles,1000,implementation,https://codeforces.com/problemset/problem/379/A,[1000]_379A_New_Year_Candles.pdf,OK
+699,A,Launch of Collider,1000,implementation,https://codeforces.com/problemset/problem/699/A,[1000]_699A_Launch_of_Collider.pdf,OK
+733,A,Grasshopper And the String,1000,implementation,https://codeforces.com/problemset/problem/733/A,[1000]_733A_Grasshopper_And_the_String.pdf,OK
+777,A,Shell Game,1000,constructive algorithms;implementation;math,https://codeforces.com/problemset/problem/777/A,[1000]_777A_Shell_Game.pdf,OK
+864,A,Fair Game,1000,implementation;sortings,https://codeforces.com/problemset/problem/864/A,[1000]_864A_Fair_Game.pdf,OK
+1033,A,King Escape,1000,dfs and similar;graphs;implementation,https://codeforces.com/problemset/problem/1033/A,[1000]_1033A_King_Escape.pdf,OK
+1133,A,Middle of the Contest,1000,implementation,https://codeforces.com/problemset/problem/1133/A,[1000]_1133A_Middle_of_the_Contest.pdf,OK
+1237,A,Balanced Rating Changes,1000,implementation;math,https://codeforces.com/problemset/problem/1237/A,[1000]_1237A_Balanced_Rating_Changes.pdf,OK
+1796,B,Asterisk-Minor Template,1000,implementation;strings,https://codeforces.com/problemset/problem/1796/B,[1000]_1796B_Asterisk-Minor_Template.pdf,OK
+1804,B,Vaccination,1000,greedy;implementation,https://codeforces.com/problemset/problem/1804/B,[1000]_1804B_Vaccination.pdf,OK
+1811,B,Conveyor Belts,1000,implementation;math,https://codeforces.com/problemset/problem/1811/B,[1000]_1811B_Conveyor_Belts.pdf,OK
+1907,B,YetnotherrokenKeoard,1000,data structures;implementation;strings,https://codeforces.com/problemset/problem/1907/B,[1000]_1907B_YetnotherrokenKeoard.pdf,OK
+2034,B,Rakhsh's Revival,1000,data structures;greedy;implementation;two pointers,https://codeforces.com/problemset/problem/2034/B,[1000]_2034B_Rakhsh's_Revival.pdf,OK
+2269,B,KiaKio and Squared Numbers,1000,brute force;implementation,https://codeforces.com/problemset/problem/2269/B,[1000]_2269B_KiaKio_and_Squared_Numbers.pdf,OK
