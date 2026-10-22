@@ -1,0 +1,61 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+1566,A,Median Maximization,800,binary search;greedy;math,https://codeforces.com/problemset/problem/1566/A,[800]_1566A_Median_Maximization.pdf,OK
+1592,A,Gamer Hemose,800,binary search;greedy;math;sortings,https://codeforces.com/problemset/problem/1592/A,[800]_1592A_Gamer_Hemose.pdf,OK
+2008,C,Longest Good Array,800,binary search;brute force;math,https://codeforces.com/problemset/problem/2008/C,[800]_2008C_Longest_Good_Array.pdf,OK
+2025,A,Two Screens,800,binary search;greedy;strings;two pointers,https://codeforces.com/problemset/problem/2025/A,[800]_2025A_Two_Screens.pdf,OK
+1138,A,Sushi for Two,900,binary search;greedy;implementation,https://codeforces.com/problemset/problem/1138/A,[900]_1138A_Sushi_for_Two.pdf,OK
+2156,B,Strange Machine,1000,binary search;brute force;greedy;implementation,https://codeforces.com/problemset/problem/2156/B,[1000]_2156B_Strange_Machine.pdf,OK
+706,B,Interesting drink,1100,binary search;dp;implementation,https://codeforces.com/problemset/problem/706/B,[1100]_706B_Interesting_drink.pdf,OK
+919,B,Perfect Number,1100,binary search;brute force;dp;implementation;number theory,https://codeforces.com/problemset/problem/919/B,[1100]_919B_Perfect_Number.pdf,OK
+1293,A,ConneR and the A.R.C. Markland-N,1100,binary search;brute force;implementation,https://codeforces.com/problemset/problem/1293/A,[1100]_1293A_ConneR_and_the_A.R.C._Markland-N.pdf,OK
+1335,C,Two Teams Composing,1100,binary search;greedy;implementation;sortings,https://codeforces.com/problemset/problem/1335/C,[1100]_1335C_Two_Teams_Composing.pdf,OK
+1426,C,Increase and Copy,1100,binary search;constructive algorithms;math,https://codeforces.com/problemset/problem/1426/C,[1100]_1426C_Increase_and_Copy.pdf,OK
+1676,E,Eating Queries,1100,binary search;greedy;sortings,https://codeforces.com/problemset/problem/1676/E,[1100]_1676E_Eating_Queries.pdf,OK
+1902,B,Getting Points,1100,binary search;brute force;greedy,https://codeforces.com/problemset/problem/1902/B,[1100]_1902B_Getting_Points.pdf,OK
+2024,B,Buying Lemonade,1100,binary search;constructive algorithms;sortings,https://codeforces.com/problemset/problem/2024/B,[1100]_2024B_Buying_Lemonade.pdf,OK
+2193,D,Monster Game,1100,binary search;sortings;two pointers,https://codeforces.com/problemset/problem/2193/D,[1100]_2193D_Monster_Game.pdf,OK
+492,B,Vanya and Lanterns,1200,binary search;implementation;math;sortings,https://codeforces.com/problemset/problem/492/B,[1200]_492B_Vanya_and_Lanterns.pdf,OK
+1011,B,Planning The Expedition,1200,binary search;brute force;implementation,https://codeforces.com/problemset/problem/1011/B,[1200]_1011B_Planning_The_Expedition.pdf,OK
+1100,C,NN and the Optical Illusion,1200,binary search;geometry;math,https://codeforces.com/problemset/problem/1100/C,[1200]_1100C_NN_and_the_Optical_Illusion.pdf,OK
+1671,C,Dolce Vita,1200,binary search;brute force;greedy;math,https://codeforces.com/problemset/problem/1671/C,[1200]_1671C_Dolce_Vita.pdf,OK
+1848,B,Vika and the Bridge,1200,binary search;data structures;greedy;implementation;math;sortings,https://codeforces.com/problemset/problem/1848/B,[1200]_1848B_Vika_and_the_Bridge.pdf,OK
+1860,B,Fancy Coins,1200,binary search;brute force;greedy;math,https://codeforces.com/problemset/problem/1860/B,[1200]_1860B_Fancy_Coins.pdf,OK
+1979,C,Earning on Bets,1200,binary search;combinatorics;constructive algorithms;number theory,https://codeforces.com/problemset/problem/1979/C,[1200]_1979C_Earning_on_Bets.pdf,OK
+2020,B,Brightness Begins,1200,binary search;math,https://codeforces.com/problemset/problem/2020/B,[1200]_2020B_Brightness_Begins.pdf,OK
+2041,B,Bowling Frame,1200,binary search;brute force;math,https://codeforces.com/problemset/problem/2041/B,[1200]_2041B_Bowling_Frame.pdf,OK
+2053,B,Outstanding Impressionist,1200,binary search;brute force;data structures;greedy,https://codeforces.com/problemset/problem/2053/B,[1200]_2053B_Outstanding_Impressionist.pdf,OK
+2117,D,Retaliation,1200,binary search;math;number theory,https://codeforces.com/problemset/problem/2117/D,[1200]_2117D_Retaliation.pdf,OK
+2148,E,Split,1200,binary search;data structures;two pointers,https://codeforces.com/problemset/problem/2148/E,[1200]_2148E_Split.pdf,OK
+271,B,Prime Matrix,1300,binary search;brute force;math;number theory,https://codeforces.com/problemset/problem/271/B,[1300]_271B_Prime_Matrix.pdf,OK
+932,B,Recursive Queries,1300,binary search;data structures;dfs and similar,https://codeforces.com/problemset/problem/932/B,[1300]_932B_Recursive_Queries.pdf,OK
+996,B,World Cup,1300,binary search;math,https://codeforces.com/problemset/problem/996/B,[1300]_996B_World_Cup.pdf,OK
+1217,A,Creating a Character,1300,binary search;math,https://codeforces.com/problemset/problem/1217/A,[1300]_1217A_Creating_a_Character.pdf,OK
+1476,B,Inflation,1300,binary search;brute force;greedy;math,https://codeforces.com/problemset/problem/1476/B,[1300]_1476B_Inflation.pdf,OK
+1538,C,Number of Pairs,1300,binary search;data structures;math;two pointers,https://codeforces.com/problemset/problem/1538/C,[1300]_1538C_Number_of_Pairs.pdf,OK
+1574,C,Slay the Dragon,1300,binary search;greedy;sortings;ternary search,https://codeforces.com/problemset/problem/1574/C,[1300]_1574C_Slay_the_Dragon.pdf,OK
+1612,C,Chat Ban,1300,binary search;math,https://codeforces.com/problemset/problem/1612/C,[1300]_1612C_Chat_Ban.pdf,OK
+1617,C,Paprika and Permutation,1300,binary search;greedy;math;sortings,https://codeforces.com/problemset/problem/1617/C,[1300]_1617C_Paprika_and_Permutation.pdf,OK
+1703,F,Yet Another Problem About Pairs Satisfying an Inequality,1300,binary search;data structures;dp;greedy;sortings,https://codeforces.com/problemset/problem/1703/F,[1300]_1703F_Yet_Another_Problem_About_Pairs_Satisfying_an_Inequality.pdf,OK
+1794,C,Scoring Subsequences,1300,binary search;greedy;math;two pointers,https://codeforces.com/problemset/problem/1794/C,[1300]_1794C_Scoring_Subsequences.pdf,OK
+1870,C,Colorful Table,1300,binary search;data structures;dp;implementation;math;two pointers,https://codeforces.com/problemset/problem/1870/C,[1300]_1870C_Colorful_Table.pdf,OK
+1873,F,Money Trees,1300,binary search;greedy;math;two pointers,https://codeforces.com/problemset/problem/1873/F,[1300]_1873F_Money_Trees.pdf,OK
+2112,C,Coloring Game,1300,binary search;brute force;greedy;two pointers,https://codeforces.com/problemset/problem/2112/C,[1300]_2112C_Coloring_Game.pdf,OK
+2146,C,Wrong Binary Search,1300,binary search;constructive algorithms,https://codeforces.com/problemset/problem/2146/C,[1300]_2146C_Wrong_Binary_Search.pdf,OK
+2192,C,All-in-one Gun,1300,binary search;greedy;math,https://codeforces.com/problemset/problem/2192/C,[1300]_2192C_All-in-one_Gun.pdf,OK
+2232,C1,Seating Arrangement (Easy Version),1300,binary search;dp;greedy;two pointers,https://codeforces.com/problemset/problem/2232/C1,[1300]_2232C1_Seating_Arrangement_(Easy_Version).pdf,OK
+2236,D,Brand New Tatar TV Show,1300,binary search;constructive algorithms;dp;games;math,https://codeforces.com/problemset/problem/2236/D,[1300]_2236D_Brand_New_Tatar_TV_Show.pdf,OK
+233,B,Non-square Equation,1400,binary search;brute force;math,https://codeforces.com/problemset/problem/233/B,[1400]_233B_Non-square_Equation.pdf,OK
+335,A,Banana,1400,binary search;constructive algorithms;greedy,https://codeforces.com/problemset/problem/335/A,[1400]_335A_Banana.pdf,OK
+670,D1,Magic Powder - 1,1400,binary search;brute force;implementation,https://codeforces.com/problemset/problem/670/D1,[1400]_670D1_Magic_Powder_-_1.pdf,OK
+888,C,K-Dominant Character,1400,binary search;implementation;two pointers,https://codeforces.com/problemset/problem/888/C,[1400]_888C_K-Dominant_Character.pdf,OK
+1263,C,Everyone is a Winner!,1400,binary search;math;meet-in-the-middle;number theory,https://codeforces.com/problemset/problem/1263/C,[1400]_1263C_Everyone_is_a_Winner!.pdf,OK
+1443,C,The Delivery Dilemma,1400,binary search;greedy;sortings,https://codeforces.com/problemset/problem/1443/C,[1400]_1443C_The_Delivery_Dilemma.pdf,OK
+1551,B2,Wonderful Coloring - 2,1400,binary search;constructive algorithms;data structures;greedy,https://codeforces.com/problemset/problem/1551/B2,[1400]_1551B2_Wonderful_Coloring_-_2.pdf,OK
+1805,C,Place for a Selfie,1400,binary search;data structures;geometry;math,https://codeforces.com/problemset/problem/1805/C,[1400]_1805C_Place_for_a_Selfie.pdf,OK
+1840,D,Wooden Toy Festival,1400,binary search;greedy;sortings,https://codeforces.com/problemset/problem/1840/D,[1400]_1840D_Wooden_Toy_Festival.pdf,OK
+1845,C,Strong Password,1400,binary search;dp;greedy;strings,https://codeforces.com/problemset/problem/1845/C,[1400]_1845C_Strong_Password.pdf,OK
+1878,E,Iva & Pav,1400,binary search;bitmasks;data structures;greedy,https://codeforces.com/problemset/problem/1878/E,[1400]_1878E_Iva_&_Pav.pdf,OK
+1896,C,Matching Arrays,1400,binary search;constructive algorithms;greedy;sortings,https://codeforces.com/problemset/problem/1896/C,[1400]_1896C_Matching_Arrays.pdf,OK
+2132,C2,The Cunning Seller (hard version),1400,binary search;greedy;math,https://codeforces.com/problemset/problem/2132/C2,[1400]_2132C2_The_Cunning_Seller_(hard_version).pdf,OK
+2164,C,Dungeon,1400,binary search;brute force;data structures;greedy;sortings,https://codeforces.com/problemset/problem/2164/C,[1400]_2164C_Dungeon.pdf,OK
+2171,D,Rae Taylor and Trees (easy version),1400,binary search;data structures;dp;dsu;greedy;implementation;trees,https://codeforces.com/problemset/problem/2171/D,[1400]_2171D_Rae_Taylor_and_Trees_(easy_version).pdf,OK
