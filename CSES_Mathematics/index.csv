@@ -1,0 +1,38 @@
+﻿position,id,name,topic,url,pdf,status
+1,2164,Josephus Queries,Mathematics,https://cses.fi/problemset/task/2164,01_2164_Josephus_Queries.pdf,OK
+2,1095,Exponentiation,Mathematics,https://cses.fi/problemset/task/1095,02_1095_Exponentiation.pdf,OK
+3,1712,Exponentiation II,Mathematics,https://cses.fi/problemset/task/1712,03_1712_Exponentiation_II.pdf,OK
+4,1713,Counting Divisors,Mathematics,https://cses.fi/problemset/task/1713,04_1713_Counting_Divisors.pdf,OK
+5,1081,Common Divisors,Mathematics,https://cses.fi/problemset/task/1081,05_1081_Common_Divisors.pdf,OK
+6,1082,Sum of Divisors,Mathematics,https://cses.fi/problemset/task/1082,06_1082_Sum_of_Divisors.pdf,OK
+7,2182,Divisor Analysis,Mathematics,https://cses.fi/problemset/task/2182,07_2182_Divisor_Analysis.pdf,OK
+8,2185,Prime Multiples,Mathematics,https://cses.fi/problemset/task/2185,08_2185_Prime_Multiples.pdf,OK
+9,2417,Counting Coprime Pairs,Mathematics,https://cses.fi/problemset/task/2417,09_2417_Counting_Coprime_Pairs.pdf,OK
+10,3396,Next Prime,Mathematics,https://cses.fi/problemset/task/3396,10_3396_Next_Prime.pdf,OK
+11,1079,Binomial Coefficients,Mathematics,https://cses.fi/problemset/task/1079,11_1079_Binomial_Coefficients.pdf,OK
+12,1715,Creating Strings II,Mathematics,https://cses.fi/problemset/task/1715,12_1715_Creating_Strings_II.pdf,OK
+13,1716,Distributing Apples,Mathematics,https://cses.fi/problemset/task/1716,13_1716_Distributing_Apples.pdf,OK
+14,1717,Christmas Party,Mathematics,https://cses.fi/problemset/task/1717,14_1717_Christmas_Party.pdf,OK
+15,3397,Permutation Order,Mathematics,https://cses.fi/problemset/task/3397,15_3397_Permutation_Order.pdf,OK
+16,3398,Permutation Rounds,Mathematics,https://cses.fi/problemset/task/3398,16_3398_Permutation_Rounds.pdf,OK
+17,2064,Bracket Sequences I,Mathematics,https://cses.fi/problemset/task/2064,17_2064_Bracket_Sequences_I.pdf,OK
+18,2187,Bracket Sequences II,Mathematics,https://cses.fi/problemset/task/2187,18_2187_Bracket_Sequences_II.pdf,OK
+19,2209,Counting Necklaces,Mathematics,https://cses.fi/problemset/task/2209,19_2209_Counting_Necklaces.pdf,OK
+20,2210,Counting Grids,Mathematics,https://cses.fi/problemset/task/2210,20_2210_Counting_Grids.pdf,OK
+21,1722,Fibonacci Numbers,Mathematics,https://cses.fi/problemset/task/1722,21_1722_Fibonacci_Numbers.pdf,OK
+22,1096,Throwing Dice,Mathematics,https://cses.fi/problemset/task/1096,22_1096_Throwing_Dice.pdf,OK
+23,1723,Graph Paths I,Mathematics,https://cses.fi/problemset/task/1723,23_1723_Graph_Paths_I.pdf,OK
+24,1724,Graph Paths II,Mathematics,https://cses.fi/problemset/task/1724,24_1724_Graph_Paths_II.pdf,OK
+25,3154,System of Linear Equations,Mathematics,https://cses.fi/problemset/task/3154,25_3154_System_of_Linear_Equations.pdf,OK
+26,3355,Sum of Four Squares,Mathematics,https://cses.fi/problemset/task/3355,26_3355_Sum_of_Four_Squares.pdf,OK
+27,3406,Triangle Number Sums,Mathematics,https://cses.fi/problemset/task/3406,27_3406_Triangle_Number_Sums.pdf,OK
+28,1725,Dice Probability,Mathematics,https://cses.fi/problemset/task/1725,28_1725_Dice_Probability.pdf,OK
+29,1726,Moving Robots,Mathematics,https://cses.fi/problemset/task/1726,29_1726_Moving_Robots.pdf,OK
+30,1727,Candy Lottery,Mathematics,https://cses.fi/problemset/task/1727,30_1727_Candy_Lottery.pdf,OK
+31,1728,Inversion Probability,Mathematics,https://cses.fi/problemset/task/1728,31_1728_Inversion_Probability.pdf,OK
+32,1729,Stick Game,Mathematics,https://cses.fi/problemset/task/1729,32_1729_Stick_Game.pdf,OK
+33,1730,Nim Game I,Mathematics,https://cses.fi/problemset/task/1730,33_1730_Nim_Game_I.pdf,OK
+34,1098,Nim Game II,Mathematics,https://cses.fi/problemset/task/1098,34_1098_Nim_Game_II.pdf,OK
+35,1099,Stair Game,Mathematics,https://cses.fi/problemset/task/1099,35_1099_Stair_Game.pdf,OK
+36,2207,Grundy's Game,Mathematics,https://cses.fi/problemset/task/2207,36_2207_Grundy's_Game.pdf,OK
+37,2208,Another Game,Mathematics,https://cses.fi/problemset/task/2208,37_2208_Another_Game.pdf,OK
