@@ -1,0 +1,61 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+664,A,Complicated GCD,800,math;number theory,https://codeforces.com/problemset/problem/664/A,[800]_664A_Complicated_GCD.pdf,OK
+749,A,Bachgold Problem,800,greedy;implementation;math;number theory,https://codeforces.com/problemset/problem/749/A,[800]_749A_Bachgold_Problem.pdf,OK
+755,A,PolandBall and Hypothesis,800,brute force;graphs;math;number theory,https://codeforces.com/problemset/problem/755/A,[800]_755A_PolandBall_and_Hypothesis.pdf,OK
+822,A,I'm bored with life,800,implementation;math;number theory,https://codeforces.com/problemset/problem/822/A,[800]_822A_I'm_bored_with_life.pdf,OK
+1312,A,Two Regular Polygons,800,geometry;greedy;math;number theory,https://codeforces.com/problemset/problem/1312/A,[800]_1312A_Two_Regular_Polygons.pdf,OK
+1389,A,LCM Problem,800,constructive algorithms;greedy;math;number theory,https://codeforces.com/problemset/problem/1389/A,[800]_1389A_LCM_Problem.pdf,OK
+1514,A,Perfectly Imperfect Array,800,math;number theory,https://codeforces.com/problemset/problem/1514/A,[800]_1514A_Perfectly_Imperfect_Array.pdf,OK
+1549,A,Gregor and Cryptography,800,math;number theory,https://codeforces.com/problemset/problem/1549/A,[800]_1549A_Gregor_and_Cryptography.pdf,OK
+1553,A,Digits Sum,800,math;number theory,https://codeforces.com/problemset/problem/1553/A,[800]_1553A_Digits_Sum.pdf,OK
+1581,A,CQXYM Count Permutations,800,combinatorics;math;number theory,https://codeforces.com/problemset/problem/1581/A,[800]_1581A_CQXYM_Count_Permutations.pdf,OK
+1583,A,Windblume Ode,800,math;number theory,https://codeforces.com/problemset/problem/1583/A,[800]_1583A_Windblume_Ode.pdf,OK
+1605,A,A.M. Deviation,800,math;number theory,https://codeforces.com/problemset/problem/1605/A,[800]_1605A_A.M._Deviation.pdf,OK
+1717,A,Madoka and Strange Thoughts,800,math;number theory,https://codeforces.com/problemset/problem/1717/A,[800]_1717A_Madoka_and_Strange_Thoughts.pdf,OK
+1768,A,Greatest Convex,800,greedy;math;number theory,https://codeforces.com/problemset/problem/1768/A,[800]_1768A_Greatest_Convex.pdf,OK
+1789,A,Serval and Mocha's Array,800,brute force;math;number theory,https://codeforces.com/problemset/problem/1789/A,[800]_1789A_Serval_and_Mocha's_Array.pdf,OK
+1845,A,Forbidden Integer,800,constructive algorithms;implementation;math;number theory,https://codeforces.com/problemset/problem/1845/A,[800]_1845A_Forbidden_Integer.pdf,OK
+1859,A,United We Stand,800,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1859/A,[800]_1859A_United_We_Stand.pdf,OK
+1899,A,Game with Integers,800,games;math;number theory,https://codeforces.com/problemset/problem/1899/A,[800]_1899A_Game_with_Integers.pdf,OK
+1916,A,2023,800,constructive algorithms;implementation;math;number theory,https://codeforces.com/problemset/problem/1916/A,[800]_1916A_2023.pdf,OK
+1933,B,Turtle Math: Fast Three Task,800,implementation;math;number theory,https://codeforces.com/problemset/problem/1933/B,[800]_1933B_Turtle_Math__Fast_Three_Task.pdf,OK
+1968,A,Maximize?,800,brute force;math;number theory,https://codeforces.com/problemset/problem/1968/A,[800]_1968A_Maximize.pdf,OK
+1985,B,Maximum Multiple Sum,800,brute force;math;number theory,https://codeforces.com/problemset/problem/1985/B,[800]_1985B_Maximum_Multiple_Sum.pdf,OK
+2007,A,Dora's Set,800,greedy;math;number theory,https://codeforces.com/problemset/problem/2007/A,[800]_2007A_Dora's_Set.pdf,OK
+2020,A,Find Minimum Operations,800,bitmasks;brute force;greedy;math;number theory,https://codeforces.com/problemset/problem/2020/A,[800]_2020A_Find_Minimum_Operations.pdf,OK
+2032,A,Circuit,800,greedy;implementation;math;number theory,https://codeforces.com/problemset/problem/2032/A,[800]_2032A_Circuit.pdf,OK
+2034,A,King Keykhosrow's Mystery,800,brute force;chinese remainder theorem;math;number theory,https://codeforces.com/problemset/problem/2034/A,[800]_2034A_King_Keykhosrow's_Mystery.pdf,OK
+2048,A,Kevin and Combination Lock,800,brute force;greedy;implementation;math;number theory,https://codeforces.com/problemset/problem/2048/A,[800]_2048A_Kevin_and_Combination_Lock.pdf,OK
+2071,A,The Play Never Ends,800,math;number theory,https://codeforces.com/problemset/problem/2071/A,[800]_2071A_The_Play_Never_Ends.pdf,OK
+2092,A,Kamilka and the Sheep,800,greedy;math;number theory;sortings,https://codeforces.com/problemset/problem/2092/A,[800]_2092A_Kamilka_and_the_Sheep.pdf,OK
+2144,A,Cut the Array,800,brute force;constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/2144/A,[800]_2144A_Cut_the_Array.pdf,OK
+2195,A,Sieve of Erato67henes,800,math;number theory,https://codeforces.com/problemset/problem/2195/A,[800]_2195A_Sieve_of_Erato67henes.pdf,OK
+2234,A,"Euclid, Sequence and Two Numbers",800,math;number theory;sortings,https://codeforces.com/problemset/problem/2234/A,"[800]_2234A_Euclid,_Sequence_and_Two_Numbers.pdf",OK
+2253,A,The Best Card,800,greedy;math;number theory,https://codeforces.com/problemset/problem/2253/A,[800]_2253A_The_Best_Card.pdf,OK
+267,A,Subtractions,900,math;number theory,https://codeforces.com/problemset/problem/267/A,[900]_267A_Subtractions.pdf,OK
+1238,A,Prime Subtraction,900,math;number theory,https://codeforces.com/problemset/problem/1238/A,[900]_1238A_Prime_Subtraction.pdf,OK
+1471,A,Strange Partition,900,greedy;math;number theory,https://codeforces.com/problemset/problem/1471/A,[900]_1471A_Strange_Partition.pdf,OK
+1475,A,Odd Divisor,900,math;number theory,https://codeforces.com/problemset/problem/1475/A,[900]_1475A_Odd_Divisor.pdf,OK
+1535,B,Array Reodering,900,brute force;greedy;math;number theory;sortings,https://codeforces.com/problemset/problem/1535/B,[900]_1535B_Array_Reodering.pdf,OK
+1543,A,Exciting Bets,900,greedy;math;number theory,https://codeforces.com/problemset/problem/1543/A,[900]_1543A_Exciting_Bets.pdf,OK
+1617,B,GCD Problem,900,brute force;constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1617/B,[900]_1617B_GCD_Problem.pdf,OK
+1679,A,AvtoBus,900,brute force;greedy;math;number theory,https://codeforces.com/problemset/problem/1679/A,[900]_1679A_AvtoBus.pdf,OK
+1720,A,Burenka Plays with Fractions,900,math;number theory,https://codeforces.com/problemset/problem/1720/A,[900]_1720A_Burenka_Plays_with_Fractions.pdf,OK
+1855,B,Longest Divisors Interval,900,brute force;combinatorics;greedy;math;number theory,https://codeforces.com/problemset/problem/1855/B,[900]_1855B_Longest_Divisors_Interval.pdf,OK
+1945,B,Fireworks,900,math;number theory,https://codeforces.com/problemset/problem/1945/B,[900]_1945B_Fireworks.pdf,OK
+2035,B,Everyone Loves Tres,900,constructive algorithms;greedy;math;number theory,https://codeforces.com/problemset/problem/2035/B,[900]_2035B_Everyone_Loves_Tres.pdf,OK
+2125,B,Left and Down,900,math;number theory,https://codeforces.com/problemset/problem/2125/B,[900]_2125B_Left_and_Down.pdf,OK
+2137,B,Fun Permutation,900,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/2137/B,[900]_2137B_Fun_Permutation.pdf,OK
+2226,B,Everything Everywhere,900,greedy;math;number theory,https://codeforces.com/problemset/problem/2226/B,[900]_2226B_Everything_Everywhere.pdf,OK
+2238,B,Crimson Triples,900,dp;math;number theory,https://codeforces.com/problemset/problem/2238/B,[900]_2238B_Crimson_Triples.pdf,OK
+2260,B,Monocarp and Projects,900,brute force;math;number theory,https://codeforces.com/problemset/problem/2260/B,[900]_2260B_Monocarp_and_Projects.pdf,OK
+766,B,Mahmoud and a Triangle,1000,constructive algorithms;geometry;greedy;math;number theory;sortings,https://codeforces.com/problemset/problem/766/B,[1000]_766B_Mahmoud_and_a_Triangle.pdf,OK
+1485,A,Add and Divide,1000,brute force;greedy;math;number theory,https://codeforces.com/problemset/problem/1485/A,[1000]_1485A_Add_and_Divide.pdf,OK
+1521,A,Nastia and Nearly Good Numbers,1000,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1521/A,[1000]_1521A_Nastia_and_Nearly_Good_Numbers.pdf,OK
+1562,B,Scenes From a Memory,1000,brute force;constructive algorithms;implementation;math;number theory,https://codeforces.com/problemset/problem/1562/B,[1000]_1562B_Scenes_From_a_Memory.pdf,OK
+1732,A,Bestie,1000,brute force;combinatorics;constructive algorithms;implementation;math;number theory,https://codeforces.com/problemset/problem/1732/A,[1000]_1732A_Bestie.pdf,OK
+1765,M,Minimum LCM,1000,math;number theory,https://codeforces.com/problemset/problem/1765/M,[1000]_1765M_Minimum_LCM.pdf,OK
+1916,B,Two Divisors,1000,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1916/B,[1000]_1916B_Two_Divisors.pdf,OK
+1998,B,Minimize Equal Sum Subarrays,1000,constructive algorithms;math;number theory,https://codeforces.com/problemset/problem/1998/B,[1000]_1998B_Minimize_Equal_Sum_Subarrays.pdf,OK
+2164,B,Even Modulo Pair,1000,brute force;math;number theory,https://codeforces.com/problemset/problem/2164/B,[1000]_2164B_Even_Modulo_Pair.pdf,OK
+2167,D,Yet Another Array Problem,1000,brute force;implementation;math;number theory,https://codeforces.com/problemset/problem/2167/D,[1000]_2167D_Yet_Another_Array_Problem.pdf,OK
