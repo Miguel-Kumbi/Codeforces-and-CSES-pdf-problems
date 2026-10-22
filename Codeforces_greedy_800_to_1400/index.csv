@@ -1,0 +1,81 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+1150,A,Stock Arbitraging,800,greedy;implementation,https://codeforces.com/problemset/problem/1150/A,[800]_1150A_Stock_Arbitraging.pdf,OK
+1399,A,Remove Smallest,800,greedy;sortings,https://codeforces.com/problemset/problem/1399/A,[800]_1399A_Remove_Smallest.pdf,OK
+1546,A,AquaMoon and Two Arrays,800,brute force;greedy,https://codeforces.com/problemset/problem/1546/A,[800]_1546A_AquaMoon_and_Two_Arrays.pdf,OK
+1554,A,Cherry,800,greedy,https://codeforces.com/problemset/problem/1554/A,[800]_1554A_Cherry.pdf,OK
+1635,A,Min Or Sum,800,bitmasks;greedy,https://codeforces.com/problemset/problem/1635/A,[800]_1635A_Min_Or_Sum.pdf,OK
+1676,C,Most Similar Words,800,brute force;greedy;implementation;math;strings,https://codeforces.com/problemset/problem/1676/C,[800]_1676C_Most_Similar_Words.pdf,OK
+1688,B,Patchouli's Magical Talisman,800,bitmasks;constructive algorithms;greedy;sortings,https://codeforces.com/problemset/problem/1688/B,[800]_1688B_Patchouli's_Magical_Talisman.pdf,OK
+1764,A,Doremy's Paint,800,greedy,https://codeforces.com/problemset/problem/1764/A,[800]_1764A_Doremy's_Paint.pdf,OK
+1780,A,Hayato and School,800,constructive algorithms;greedy,https://codeforces.com/problemset/problem/1780/A,[800]_1780A_Hayato_and_School.pdf,OK
+1792,A,GamingForces,800,greedy;sortings,https://codeforces.com/problemset/problem/1792/A,[800]_1792A_GamingForces.pdf,OK
+1802,A,Likes,800,greedy;implementation,https://codeforces.com/problemset/problem/1802/A,[800]_1802A_Likes.pdf,OK
+1863,A,Channel,800,greedy;implementation,https://codeforces.com/problemset/problem/1863/A,[800]_1863A_Channel.pdf,OK
+1870,A,MEXanized Array,800,constructive algorithms;greedy;math,https://codeforces.com/problemset/problem/1870/A,[800]_1870A_MEXanized_Array.pdf,OK
+2014,A,Robin Helps,800,greedy;implementation,https://codeforces.com/problemset/problem/2014/A,[800]_2014A_Robin_Helps.pdf,OK
+2053,A,Tender Carpenter,800,dp;geometry;greedy;math,https://codeforces.com/problemset/problem/2053/A,[800]_2053A_Tender_Carpenter.pdf,OK
+2074,B,The Third Side,800,geometry;greedy;math,https://codeforces.com/problemset/problem/2074/B,[800]_2074B_The_Third_Side.pdf,OK
+2091,A,Olympiad Date,800,greedy;strings,https://codeforces.com/problemset/problem/2091/A,[800]_2091A_Olympiad_Date.pdf,OK
+2140,A,Shift Sort,800,greedy;sortings,https://codeforces.com/problemset/problem/2140/A,[800]_2140A_Shift_Sort.pdf,OK
+2153,B,Bitwise Reversion,800,bitmasks;greedy,https://codeforces.com/problemset/problem/2153/B,[800]_2153B_Bitwise_Reversion.pdf,OK
+2154,A,Notelock,800,greedy;two pointers,https://codeforces.com/problemset/problem/2154/A,[800]_2154A_Notelock.pdf,OK
+2180,B,Ashmal,800,greedy;strings,https://codeforces.com/problemset/problem/2180/B,[800]_2180B_Ashmal.pdf,OK
+2244,B,Nikita and Books,800,greedy;math;sortings,https://codeforces.com/problemset/problem/2244/B,[800]_2244B_Nikita_and_Books.pdf,OK
+246,A,Buggy Sorting,900,constructive algorithms;greedy;sortings,https://codeforces.com/problemset/problem/246/A,[900]_246A_Buggy_Sorting.pdf,OK
+1106,C,Lunar New Year and Number Division,900,greedy;implementation;math;sortings,https://codeforces.com/problemset/problem/1106/C,[900]_1106C_Lunar_New_Year_and_Number_Division.pdf,OK
+1204,B,Mislove Has Lost an Array,900,greedy;math,https://codeforces.com/problemset/problem/1204/B,[900]_1204B_Mislove_Has_Lost_an_Array.pdf,OK
+1406,A,Subset Mex,900,greedy;implementation;math,https://codeforces.com/problemset/problem/1406/A,[900]_1406A_Subset_Mex.pdf,OK
+1480,B,The Great Hero,900,greedy;implementation;sortings,https://codeforces.com/problemset/problem/1480/B,[900]_1480B_The_Great_Hero.pdf,OK
+1543,B,Customising the Track,900,combinatorics;greedy;math,https://codeforces.com/problemset/problem/1543/B,[900]_1543B_Customising_the_Track.pdf,OK
+1559,B,Mocha and Red and Blue,900,dp;greedy,https://codeforces.com/problemset/problem/1559/B,[900]_1559B_Mocha_and_Red_and_Blue.pdf,OK
+1837,B,Comparison String,900,greedy,https://codeforces.com/problemset/problem/1837/B,[900]_1837B_Comparison_String.pdf,OK
+1855,B,Longest Divisors Interval,900,brute force;combinatorics;greedy;math;number theory,https://codeforces.com/problemset/problem/1855/B,[900]_1855B_Longest_Divisors_Interval.pdf,OK
+2209,B,Array,900,greedy,https://codeforces.com/problemset/problem/2209/B,[900]_2209B_Array.pdf,OK
+359,A,Table,1000,constructive algorithms;greedy;implementation,https://codeforces.com/problemset/problem/359/A,[1000]_359A_Table.pdf,OK
+804,A,Find Amir,1000,constructive algorithms;greedy;math,https://codeforces.com/problemset/problem/804/A,[1000]_804A_Find_Amir.pdf,OK
+888,B,Buggy Robot,1000,greedy,https://codeforces.com/problemset/problem/888/B,[1000]_888B_Buggy_Robot.pdf,OK
+2188,B,Seats,1000,greedy,https://codeforces.com/problemset/problem/2188/B,[1000]_2188B_Seats.pdf,OK
+160,B,Unlucky Ticket,1100,greedy;sortings,https://codeforces.com/problemset/problem/160/B,[1100]_160B_Unlucky_Ticket.pdf,OK
+253,A,Boys and Girls,1100,greedy,https://codeforces.com/problemset/problem/253/A,[1100]_253A_Boys_and_Girls.pdf,OK
+402,A,Nuts,1100,greedy;math,https://codeforces.com/problemset/problem/402/A,[1100]_402A_Nuts.pdf,OK
+1221,B,Knights,1100,constructive algorithms;greedy,https://codeforces.com/problemset/problem/1221/B,[1100]_1221B_Knights.pdf,OK
+1334,B,Middle Class,1100,greedy;sortings,https://codeforces.com/problemset/problem/1334/B,[1100]_1334B_Middle_Class.pdf,OK
+1547,C,Pair Programming,1100,greedy;two pointers,https://codeforces.com/problemset/problem/1547/C,[1100]_1547C_Pair_Programming.pdf,OK
+1616,B,Mirror in the String,1100,greedy;strings,https://codeforces.com/problemset/problem/1616/B,[1100]_1616B_Mirror_in_the_String.pdf,OK
+1706,B,Making Towers,1100,dp;greedy;math,https://codeforces.com/problemset/problem/1706/B,[1100]_1706B_Making_Towers.pdf,OK
+1742,D,Coprime,1100,brute force;greedy;number theory,https://codeforces.com/problemset/problem/1742/D,[1100]_1742D_Coprime.pdf,OK
+2063,B,Subsequence Update,1100,constructive algorithms;data structures;greedy;sortings,https://codeforces.com/problemset/problem/2063/B,[1100]_2063B_Subsequence_Update.pdf,OK
+2137,C,Maximum Even Sum,1100,brute force;greedy;implementation;math,https://codeforces.com/problemset/problem/2137/C,[1100]_2137C_Maximum_Even_Sum.pdf,OK
+2162,C,Beautiful XOR,1100,bitmasks;constructive algorithms;greedy,https://codeforces.com/problemset/problem/2162/C,[1100]_2162C_Beautiful_XOR.pdf,OK
+2211,B,Mickey Mouse Constructive,1100,constructive algorithms;dp;greedy;math,https://codeforces.com/problemset/problem/2211/B,[1100]_2211B_Mickey_Mouse_Constructive.pdf,OK
+2225,C,Red-Black Pairs,1100,dp;greedy,https://codeforces.com/problemset/problem/2225/C,[1100]_2225C_Red-Black_Pairs.pdf,OK
+2252,B,Always Changing,1100,dp;greedy;math;strings,https://codeforces.com/problemset/problem/2252/B,[1100]_2252B_Always_Changing.pdf,OK
+802,M1,April Fools' Problem (easy),1200,greedy;sortings,https://codeforces.com/problemset/problem/802/M1,[1200]_802M1_April_Fools'_Problem_(easy).pdf,OK
+1076,A,Minimizing the String,1200,greedy;strings,https://codeforces.com/problemset/problem/1076/A,[1200]_1076A_Minimizing_the_String.pdf,OK
+1131,C,Birthday,1200,binary search;greedy;sortings,https://codeforces.com/problemset/problem/1131/C,[1200]_1131C_Birthday.pdf,OK
+1203,B,Equal Rectangles,1200,greedy;math,https://codeforces.com/problemset/problem/1203/B,[1200]_1203B_Equal_Rectangles.pdf,OK
+1327,B,Princesses and Princes,1200,brute force;graphs;greedy,https://codeforces.com/problemset/problem/1327/B,[1200]_1327B_Princesses_and_Princes.pdf,OK
+1734,C,Removing Smallest Multiples,1200,greedy;math,https://codeforces.com/problemset/problem/1734/C,[1200]_1734C_Removing_Smallest_Multiples.pdf,OK
+1874,A,Jellyfish and Game,1200,brute force;games;greedy;implementation,https://codeforces.com/problemset/problem/1874/A,[1200]_1874A_Jellyfish_and_Game.pdf,OK
+1992,D,Test of Love,1200,dp;greedy;implementation,https://codeforces.com/problemset/problem/1992/D,[1200]_1992D_Test_of_Love.pdf,OK
+2005,B2,The Strict Teacher (Hard Version),1200,binary search;greedy;math;sortings,https://codeforces.com/problemset/problem/2005/B2,[1200]_2005B2_The_Strict_Teacher_(Hard_Version).pdf,OK
+2069,B,Set of Strangers,1200,greedy;matrices,https://codeforces.com/problemset/problem/2069/B,[1200]_2069B_Set_of_Strangers.pdf,OK
+2109,B,Slice to Survive,1200,bitmasks;greedy;math,https://codeforces.com/problemset/problem/2109/B,[1200]_2109B_Slice_to_Survive.pdf,OK
+2121,C,Those Who Are With Us,1200,greedy;implementation,https://codeforces.com/problemset/problem/2121/C,[1200]_2121C_Those_Who_Are_With_Us.pdf,OK
+1101,B,Accordion,1300,greedy;implementation,https://codeforces.com/problemset/problem/1101/B,[1300]_1101B_Accordion.pdf,OK
+1220,C,Substring Game in the Lesson,1300,games;greedy;strings,https://codeforces.com/problemset/problem/1220/C,[1300]_1220C_Substring_Game_in_the_Lesson.pdf,OK
+1418,B,Negative Prefixes,1300,greedy;sortings,https://codeforces.com/problemset/problem/1418/B,[1300]_1418B_Negative_Prefixes.pdf,OK
+1470,A,Strange Birthday Party,1300,binary search;dp;greedy;sortings;two pointers,https://codeforces.com/problemset/problem/1470/A,[1300]_1470A_Strange_Birthday_Party.pdf,OK
+1560,D,Make a Power of Two,1300,greedy;math;strings,https://codeforces.com/problemset/problem/1560/D,[1300]_1560D_Make_a_Power_of_Two.pdf,OK
+1746,C,Permutation Operations,1300,constructive algorithms;greedy;implementation;math,https://codeforces.com/problemset/problem/1746/C,[1300]_1746C_Permutation_Operations.pdf,OK
+1794,C,Scoring Subsequences,1300,binary search;greedy;math;two pointers,https://codeforces.com/problemset/problem/1794/C,[1300]_1794C_Scoring_Subsequences.pdf,OK
+2176,C,Odd Process,1300,greedy;sortings,https://codeforces.com/problemset/problem/2176/C,[1300]_2176C_Odd_Process.pdf,OK
+2232,C1,Seating Arrangement (Easy Version),1300,binary search;dp;greedy;two pointers,https://codeforces.com/problemset/problem/2232/C1,[1300]_2232C1_Seating_Arrangement_(Easy_Version).pdf,OK
+416,A,Guess a number!,1400,greedy;implementation;two pointers,https://codeforces.com/problemset/problem/416/A,[1400]_416A_Guess_a_number!.pdf,OK
+479,C,Exams,1400,greedy;sortings,https://codeforces.com/problemset/problem/479/C,[1400]_479C_Exams.pdf,OK
+534,B,Covered Path,1400,dp;greedy;math,https://codeforces.com/problemset/problem/534/B,[1400]_534B_Covered_Path.pdf,OK
+1362,C,Johnny and Another Rating Drop,1400,bitmasks;greedy;math,https://codeforces.com/problemset/problem/1362/C,[1400]_1362C_Johnny_and_Another_Rating_Drop.pdf,OK
+1425,A,Arena of Greed,1400,games;greedy,https://codeforces.com/problemset/problem/1425/A,[1400]_1425A_Arena_of_Greed.pdf,OK
+1506,D,Epic Transformation,1400,constructive algorithms;data structures;greedy,https://codeforces.com/problemset/problem/1506/D,[1400]_1506D_Epic_Transformation.pdf,OK
+1923,C,Find B,1400,constructive algorithms;greedy,https://codeforces.com/problemset/problem/1923/C,[1400]_1923C_Find_B.pdf,OK
+2127,C,Trip Shopping,1400,games;greedy;sortings,https://codeforces.com/problemset/problem/2127/C,[1400]_2127C_Trip_Shopping.pdf,OK

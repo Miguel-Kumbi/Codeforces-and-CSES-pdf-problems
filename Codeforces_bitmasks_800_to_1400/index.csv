@@ -1,0 +1,51 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+202,A,LLPS,800,binary search;bitmasks;brute force;greedy;implementation;strings,https://codeforces.com/problemset/problem/202/A,[800]_202A_LLPS.pdf,OK
+1421,A,XORwice,800,bitmasks;greedy;math,https://codeforces.com/problemset/problem/1421/A,[800]_1421A_XORwice.pdf,OK
+1843,C,Sum in Binary Tree,800,bitmasks;combinatorics;math;trees,https://codeforces.com/problemset/problem/1843/C,[800]_1843C_Sum_in_Binary_Tree.pdf,OK
+1915,B,Not Quite Latin Square,800,bitmasks;brute force;implementation,https://codeforces.com/problemset/problem/1915/B,[800]_1915B_Not_Quite_Latin_Square.pdf,OK
+2020,A,Find Minimum Operations,800,bitmasks;brute force;greedy;math;number theory,https://codeforces.com/problemset/problem/2020/A,[800]_2020A_Find_Minimum_Operations.pdf,OK
+2153,B,Bitwise Reversion,800,bitmasks;greedy,https://codeforces.com/problemset/problem/2153/B,[800]_2153B_Bitwise_Reversion.pdf,OK
+2200,B,Deletion Sort,800,bitmasks;brute force;greedy;sortings,https://codeforces.com/problemset/problem/2200/B,[800]_2200B_Deletion_Sort.pdf,OK
+1494,A,ABC String,900,bitmasks;brute force;implementation,https://codeforces.com/problemset/problem/1494/A,[900]_1494A_ABC_String.pdf,OK
+1559,A,Mocha and Math,900,bitmasks;constructive algorithms;math,https://codeforces.com/problemset/problem/1559/A,[900]_1559A_Mocha_and_Math.pdf,OK
+1699,B,Almost Ternary Matrix,900,bitmasks;constructive algorithms;matrices,https://codeforces.com/problemset/problem/1699/B,[900]_1699B_Almost_Ternary_Matrix.pdf,OK
+1567,B,MEXor Mixup,1000,bitmasks;greedy,https://codeforces.com/problemset/problem/1567/B,[1000]_1567B_MEXor_Mixup.pdf,OK
+1847,B,Hamon Odyssey,1000,bitmasks;greedy;two pointers,https://codeforces.com/problemset/problem/1847/B,[1000]_1847B_Hamon_Odyssey.pdf,OK
+467,B,Fedor and New Game,1100,bitmasks;brute force;constructive algorithms;implementation,https://codeforces.com/problemset/problem/467/B,[1100]_467B_Fedor_and_New_Game.pdf,OK
+1842,B,Tenzing and Books,1100,bitmasks;greedy;math,https://codeforces.com/problemset/problem/1842/B,[1100]_1842B_Tenzing_and_Books.pdf,OK
+1991,B,AND Reconstruction,1100,bitmasks;constructive algorithms;greedy,https://codeforces.com/problemset/problem/1991/B,[1100]_1991B_AND_Reconstruction.pdf,OK
+1994,B,Fun Game,1100,bitmasks;constructive algorithms;greedy;math,https://codeforces.com/problemset/problem/1994/B,[1100]_1994B_Fun_Game.pdf,OK
+2162,C,Beautiful XOR,1100,bitmasks;constructive algorithms;greedy,https://codeforces.com/problemset/problem/2162/C,[1100]_2162C_Beautiful_XOR.pdf,OK
+2261,B,What's the Capital of France?,1100,bitmasks;greedy;math,https://codeforces.com/problemset/problem/2261/B,[1100]_2261B_What's_the_Capital_of_France.pdf,OK
+743,B,Chloe and the sequence ,1200,binary search;bitmasks;constructive algorithms;implementation,https://codeforces.com/problemset/problem/743/B,[1200]_743B_Chloe_and_the_sequence.pdf,OK
+1042,B,Vitamins,1200,bitmasks;brute force;dp;implementation,https://codeforces.com/problemset/problem/1042/B,[1200]_1042B_Vitamins.pdf,OK
+1362,B,Johnny and His Hobbies,1200,bitmasks;brute force,https://codeforces.com/problemset/problem/1362/B,[1200]_1362B_Johnny_and_His_Hobbies.pdf,OK
+1420,B,Rock and Lever,1200,bitmasks;math,https://codeforces.com/problemset/problem/1420/B,[1200]_1420B_Rock_and_Lever.pdf,OK
+2039,C1,Shohag Loves XOR (Easy Version),1200,bitmasks;brute force;math;number theory,https://codeforces.com/problemset/problem/2039/C1,[1200]_2039C1_Shohag_Loves_XOR_(Easy_Version).pdf,OK
+2072,C,Creating Keys for StORages Has Become My Main Skill,1200,bitmasks;constructive algorithms;greedy,https://codeforces.com/problemset/problem/2072/C,[1200]_2072C_Creating_Keys_for_StORages_Has_Become_My_Main_Skill.pdf,OK
+2094,E,Boneca Ambalabu,1200,bitmasks,https://codeforces.com/problemset/problem/2094/E,[1200]_2094E_Boneca_Ambalabu.pdf,OK
+2218,E,The 67th XOR Problem,1200,binary search;bitmasks;brute force,https://codeforces.com/problemset/problem/2218/E,[1200]_2218E_The_67th_XOR_Problem.pdf,OK
+611,B,New Year and Old Property,1300,bitmasks;brute force;implementation,https://codeforces.com/problemset/problem/611/B,[1300]_611B_New_Year_and_Old_Property.pdf,OK
+1498,B,Box Fitting,1300,binary search;bitmasks;data structures;greedy,https://codeforces.com/problemset/problem/1498/B,[1300]_1498B_Box_Fitting.pdf,OK
+1601,A,Array Elimination,1300,bitmasks;greedy;math;number theory,https://codeforces.com/problemset/problem/1601/A,[1300]_1601A_Array_Elimination.pdf,OK
+1615,B,And It's Non-Zero,1300,bitmasks;greedy;math,https://codeforces.com/problemset/problem/1615/B,[1300]_1615B_And_It's_Non-Zero.pdf,OK
+1659,B,Bit Flipping,1300,bitmasks;constructive algorithms;greedy;strings,https://codeforces.com/problemset/problem/1659/B,[1300]_1659B_Bit_Flipping.pdf,OK
+1669,H,Maximal AND,1300,bitmasks;greedy;math,https://codeforces.com/problemset/problem/1669/H,[1300]_1669H_Maximal_AND.pdf,OK
+1775,B,Gardener and the Array,1300,bitmasks;constructive algorithms,https://codeforces.com/problemset/problem/1775/B,[1300]_1775B_Gardener_and_the_Array.pdf,OK
+2108,B,SUMdamental Decomposition,1300,bitmasks;constructive algorithms;greedy;implementation;math,https://codeforces.com/problemset/problem/2108/B,[1300]_2108B_SUMdamental_Decomposition.pdf,OK
+2118,C,Make It Beautiful,1300,bitmasks;data structures;greedy;math,https://codeforces.com/problemset/problem/2118/C,[1300]_2118C_Make_It_Beautiful.pdf,OK
+2160,C,Reverse XOR,1300,bitmasks,https://codeforces.com/problemset/problem/2160/C,[1300]_2160C_Reverse_XOR.pdf,OK
+2179,D,Blackslex and Penguin Civilization,1300,bitmasks;constructive algorithms;greedy;math,https://codeforces.com/problemset/problem/2179/D,[1300]_2179D_Blackslex_and_Penguin_Civilization.pdf,OK
+2189,C1,XOR Convenience (Easy Version),1300,bitmasks;constructive algorithms;math,https://codeforces.com/problemset/problem/2189/C1,[1300]_2189C1_XOR_Convenience_(Easy_Version).pdf,OK
+2260,C,"Maximize XOR, Minimize Operations",1300,bitmasks;greedy,https://codeforces.com/problemset/problem/2260/C,"[1300]_2260C_Maximize_XOR,_Minimize_Operations.pdf",OK
+961,C,Chessboard,1400,bitmasks;brute force;implementation,https://codeforces.com/problemset/problem/961/C,[1400]_961C_Chessboard.pdf,OK
+1095,C,Powers Of Two,1400,bitmasks;greedy,https://codeforces.com/problemset/problem/1095/C,[1400]_1095C_Powers_Of_Two.pdf,OK
+1270,C,Make Good,1400,bitmasks;constructive algorithms;math,https://codeforces.com/problemset/problem/1270/C,[1400]_1270C_Make_Good.pdf,OK
+1362,C,Johnny and Another Rating Drop,1400,bitmasks;greedy;math,https://codeforces.com/problemset/problem/1362/C,[1400]_1362C_Johnny_and_Another_Rating_Drop.pdf,OK
+1463,B,Find The Array,1400,bitmasks;constructive algorithms;greedy,https://codeforces.com/problemset/problem/1463/B,[1400]_1463B_Find_The_Array.pdf,OK
+1494,B,Berland Crossword,1400,bitmasks;brute force;greedy;implementation,https://codeforces.com/problemset/problem/1494/B,,"ERROR: HTTPSConnectionPool(host='codeforces.com', port=443): Max retries exceeded with url: /problemset/problem/1494/B (Caused by NameResolutionError(""HTTPSConnection(host='codeforces.com', port=443): Failed to resolve 'codeforces.com' ([Errno -3] Temporary failure in name resolution)""))"
+1634,B,Fortune Telling,1400,bitmasks;math,https://codeforces.com/problemset/problem/1634/B,,"ERROR: HTTPSConnectionPool(host='codeforces.com', port=443): Max retries exceeded with url: /problemset/problem/1634/B (Caused by NameResolutionError(""HTTPSConnection(host='codeforces.com', port=443): Failed to resolve 'codeforces.com' ([Errno -3] Temporary failure in name resolution)""))"
+1790,E,Vlad and a Pair of Numbers,1400,bitmasks;constructive algorithms,https://codeforces.com/problemset/problem/1790/E,[1400]_1790E_Vlad_and_a_Pair_of_Numbers.pdf,OK
+1847,C,"Vampiric Powers, anyone?",1400,bitmasks;brute force;dp;greedy,https://codeforces.com/problemset/problem/1847/C,"[1400]_1847C_Vampiric_Powers,_anyone.pdf",OK
+1875,C,Jellyfish and Green Apple,1400,bitmasks;greedy;math;number theory,https://codeforces.com/problemset/problem/1875/C,[1400]_1875C_Jellyfish_and_Green_Apple.pdf,OK
+2271,C,XOR Problem,1400,bitmasks;constructive algorithms;graphs;greedy;math,https://codeforces.com/problemset/problem/2271/C,[1400]_2271C_XOR_Problem.pdf,OK
