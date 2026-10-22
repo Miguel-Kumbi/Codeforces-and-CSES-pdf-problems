@@ -1,0 +1,51 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+1746,B,Rebellion,800,constructive algorithms;greedy;two pointers,https://codeforces.com/problemset/problem/1746/B,[800]_1746B_Rebellion.pdf,OK
+1789,B,Serval and Inversion Magic,800,brute force;implementation;strings;two pointers,https://codeforces.com/problemset/problem/1789/B,[800]_1789B_Serval_and_Inversion_Magic.pdf,OK
+1843,A,Sasha and Array Coloring,800,greedy;sortings;two pointers,https://codeforces.com/problemset/problem/1843/A,[800]_1843A_Sasha_and_Array_Coloring.pdf,OK
+1968,B,Prefiquence,800,greedy;two pointers,https://codeforces.com/problemset/problem/1968/B,[800]_1968B_Prefiquence.pdf,OK
+2143,A,All Lengths Subtraction,800,brute force;two pointers,https://codeforces.com/problemset/problem/2143/A,[800]_2143A_All_Lengths_Subtraction.pdf,OK
+2154,A,Notelock,800,greedy;two pointers,https://codeforces.com/problemset/problem/2154/A,[800]_2154A_Notelock.pdf,OK
+2136,B,Like the Bitset,900,constructive algorithms;greedy;two pointers,https://codeforces.com/problemset/problem/2136/B,[900]_2136B_Like_the_Bitset.pdf,OK
+2254,B,Evanescent,900,implementation;strings;two pointers,https://codeforces.com/problemset/problem/2254/B,[900]_2254B_Evanescent.pdf,OK
+1690,D,Black and White Stripe,1000,implementation;two pointers,https://codeforces.com/problemset/problem/1690/D,[1000]_1690D_Black_and_White_Stripe.pdf,OK
+2034,B,Rakhsh's Revival,1000,data structures;greedy;implementation;two pointers,https://codeforces.com/problemset/problem/2034/B,[1000]_2034B_Rakhsh's_Revival.pdf,OK
+1610,B,Kalindrome Array,1100,greedy;two pointers,https://codeforces.com/problemset/problem/1610/B,[1100]_1610B_Kalindrome_Array.pdf,OK
+1656,B,Subtract Operation,1100,data structures;greedy;math;two pointers,https://codeforces.com/problemset/problem/1656/B,[1100]_1656B_Subtract_Operation.pdf,OK
+1669,F,Eating Candies,1100,binary search;data structures;greedy;two pointers,https://codeforces.com/problemset/problem/1669/F,[1100]_1669F_Eating_Candies.pdf,OK
+1820,B,JoJo's Incredible Adventures,1100,math;strings;two pointers,https://codeforces.com/problemset/problem/1820/B,[1100]_1820B_JoJo's_Incredible_Adventures.pdf,OK
+1899,C,Yarik and Array,1100,dp;greedy;two pointers,https://codeforces.com/problemset/problem/1899/C,[1100]_1899C_Yarik_and_Array.pdf,OK
+1995,B1,Bouquet (Easy Version),1100,binary search;brute force;greedy;sortings;two pointers,https://codeforces.com/problemset/problem/1995/B1,[1100]_1995B1_Bouquet_(Easy_Version).pdf,OK
+2064,B,Variety is Discouraged,1100,binary search;constructive algorithms;greedy;two pointers,https://codeforces.com/problemset/problem/2064/B,[1100]_2064B_Variety_is_Discouraged.pdf,OK
+2128,B,Deque Process,1100,constructive algorithms;greedy;sortings;two pointers,https://codeforces.com/problemset/problem/2128/B,[1100]_2128B_Deque_Process.pdf,OK
+2197,B,Array and Permutation,1100,implementation;schedules;sortings;two pointers,https://codeforces.com/problemset/problem/2197/B,[1100]_2197B_Array_and_Permutation.pdf,OK
+2253,B,Hypercarp and the Control Panel,1100,brute force;data structures;two pointers,https://codeforces.com/problemset/problem/2253/B,[1100]_2253B_Hypercarp_and_the_Control_Panel.pdf,OK
+264,A,Escape from Stones,1200,constructive algorithms;data structures;implementation;two pointers,https://codeforces.com/problemset/problem/264/A,[1200]_264A_Escape_from_Stones.pdf,OK
+387,B,George and Round,1200,brute force;greedy;two pointers,https://codeforces.com/problemset/problem/387/B,[1200]_387B_George_and_Round.pdf,OK
+842,A,Kirill And The Game,1200,brute force;two pointers,https://codeforces.com/problemset/problem/842/A,[1200]_842A_Kirill_And_The_Game.pdf,OK
+961,B,Lecture Sleep,1200,data structures;dp;implementation;two pointers,https://codeforces.com/problemset/problem/961/B,[1200]_961B_Lecture_Sleep.pdf,OK
+1399,C,Boats Competition,1200,brute force;greedy;two pointers,https://codeforces.com/problemset/problem/1399/C,[1200]_1399C_Boats_Competition.pdf,OK
+1582,C,Grandma Capa Knits a Scarf,1200,brute force;data structures;greedy;strings;two pointers,https://codeforces.com/problemset/problem/1582/C,[1200]_1582C_Grandma_Capa_Knits_a_Scarf.pdf,OK
+1793,C,Dora and Search,1200,constructive algorithms;data structures;two pointers,https://codeforces.com/problemset/problem/1793/C,[1200]_1793C_Dora_and_Search.pdf,OK
+2161,C,Loyalty,1200,constructive algorithms;greedy;sortings;two pointers,https://codeforces.com/problemset/problem/2161/C,[1200]_2161C_Loyalty.pdf,OK
+2174,A,Needle in a Haystack,1200,greedy;strings;two pointers,https://codeforces.com/problemset/problem/2174/A,[1200]_2174A_Needle_in_a_Haystack.pdf,OK
+60,A,Where Are My Flakes?,1300,implementation;two pointers,https://codeforces.com/problemset/problem/60/A,[1300]_60A_Where_Are_My_Flakes.pdf,OK
+600,B,Queries about less or equal elements,1300,binary search;data structures;sortings;two pointers,https://codeforces.com/problemset/problem/600/B,[1300]_600B_Queries_about_less_or_equal_elements.pdf,OK
+716,B,Complete the Word,1300,greedy;two pointers,https://codeforces.com/problemset/problem/716/B,[1300]_716B_Complete_the_Word.pdf,OK
+1237,B,Balanced Tunnel,1300,data structures;sortings;two pointers,https://codeforces.com/problemset/problem/1237/B,[1300]_1237B_Balanced_Tunnel.pdf,OK
+1470,A,Strange Birthday Party,1300,binary search;dp;greedy;sortings;two pointers,https://codeforces.com/problemset/problem/1470/A,[1300]_1470A_Strange_Birthday_Party.pdf,OK
+1736,C1,Good Subarrays (Easy Version),1300,binary search;data structures;schedules;two pointers,https://codeforces.com/problemset/problem/1736/C1,[1300]_1736C1_Good_Subarrays_(Easy_Version).pdf,OK
+1873,F,Money Trees,1300,binary search;greedy;math;two pointers,https://codeforces.com/problemset/problem/1873/F,[1300]_1873F_Money_Trees.pdf,OK
+2025,C,New Game,1300,binary search;brute force;greedy;implementation;sortings;two pointers,https://codeforces.com/problemset/problem/2025/C,[1300]_2025C_New_Game.pdf,OK
+2170,C,Quotient and Remainder,1300,binary search;greedy;two pointers,https://codeforces.com/problemset/problem/2170/C,[1300]_2170C_Quotient_and_Remainder.pdf,OK
+2211,C1,Equal Multisets (Easy Version),1300,binary search;brute force;greedy;two pointers,https://codeforces.com/problemset/problem/2211/C1,[1300]_2211C1_Equal_Multisets_(Easy_Version).pdf,OK
+2242,C,Unstable Elements,1300,brute force;data structures;implementation;sortings;two pointers,https://codeforces.com/problemset/problem/2242/C,[1300]_2242C_Unstable_Elements.pdf,OK
+253,B,Physics Practical,1400,binary search;dp;sortings;two pointers,https://codeforces.com/problemset/problem/253/B,[1400]_253B_Physics_Practical.pdf,OK
+279,B,Books,1400,binary search;brute force;implementation;two pointers,https://codeforces.com/problemset/problem/279/B,[1400]_279B_Books.pdf,OK
+416,A,Guess a number!,1400,greedy;implementation;two pointers,https://codeforces.com/problemset/problem/416/A,[1400]_416A_Guess_a_number!.pdf,OK
+430,B,Balls Game,1400,brute force;two pointers,https://codeforces.com/problemset/problem/430/B,[1400]_430B_Balls_Game.pdf,OK
+1369,C,RationalLee,1400,greedy;math;sortings;two pointers,https://codeforces.com/problemset/problem/1369/C,[1400]_1369C_RationalLee.pdf,OK
+1628,A,Meximum Array,1400,binary search;constructive algorithms;greedy;implementation;math;two pointers,https://codeforces.com/problemset/problem/1628/A,[1400]_1628A_Meximum_Array.pdf,OK
+1701,C,Schedule Management,1400,binary search;greedy;implementation;two pointers,https://codeforces.com/problemset/problem/1701/C,[1400]_1701C_Schedule_Management.pdf,OK
+1721,C,Min-Max Array Transformation,1400,binary search;greedy;two pointers,https://codeforces.com/problemset/problem/1721/C,[1400]_1721C_Min-Max_Array_Transformation.pdf,OK
+1927,E,Klever Permutation,1400,constructive algorithms;math;two pointers,https://codeforces.com/problemset/problem/1927/E,[1400]_1927E_Klever_Permutation.pdf,OK
+2190,B1,Sub-RBS (Easy Version),1400,combinatorics;constructive algorithms;dp;greedy;strings;two pointers,https://codeforces.com/problemset/problem/2190/B1,[1400]_2190B1_Sub-RBS_(Easy_Version).pdf,OK
