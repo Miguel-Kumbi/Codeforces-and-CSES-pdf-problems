@@ -1,0 +1,36 @@
+﻿position,id,name,topic,url,pdf,status
+1,1621,Distinct Numbers,Sorting and Searching,https://cses.fi/problemset/task/1621,01_1621_Distinct_Numbers.pdf,OK
+2,1084,Apartments,Sorting and Searching,https://cses.fi/problemset/task/1084,02_1084_Apartments.pdf,OK
+3,1090,Ferris Wheel,Sorting and Searching,https://cses.fi/problemset/task/1090,03_1090_Ferris_Wheel.pdf,OK
+4,1091,Concert Tickets,Sorting and Searching,https://cses.fi/problemset/task/1091,04_1091_Concert_Tickets.pdf,OK
+5,1619,Restaurant Customers,Sorting and Searching,https://cses.fi/problemset/task/1619,05_1619_Restaurant_Customers.pdf,OK
+6,1629,Movie Festival,Sorting and Searching,https://cses.fi/problemset/task/1629,06_1629_Movie_Festival.pdf,OK
+7,1640,Sum of Two Values,Sorting and Searching,https://cses.fi/problemset/task/1640,07_1640_Sum_of_Two_Values.pdf,OK
+8,1643,Maximum Subarray Sum,Sorting and Searching,https://cses.fi/problemset/task/1643,08_1643_Maximum_Subarray_Sum.pdf,OK
+9,1074,Stick Lengths,Sorting and Searching,https://cses.fi/problemset/task/1074,09_1074_Stick_Lengths.pdf,OK
+10,2183,Missing Coin Sum,Sorting and Searching,https://cses.fi/problemset/task/2183,10_2183_Missing_Coin_Sum.pdf,OK
+11,2216,Collecting Numbers,Sorting and Searching,https://cses.fi/problemset/task/2216,11_2216_Collecting_Numbers.pdf,OK
+12,2217,Collecting Numbers II,Sorting and Searching,https://cses.fi/problemset/task/2217,12_2217_Collecting_Numbers_II.pdf,OK
+13,1141,Playlist,Sorting and Searching,https://cses.fi/problemset/task/1141,13_1141_Playlist.pdf,OK
+14,1073,Towers,Sorting and Searching,https://cses.fi/problemset/task/1073,14_1073_Towers.pdf,OK
+15,1163,Traffic Lights,Sorting and Searching,https://cses.fi/problemset/task/1163,15_1163_Traffic_Lights.pdf,OK
+16,3420,Distinct Values Subarrays,Sorting and Searching,https://cses.fi/problemset/task/3420,16_3420_Distinct_Values_Subarrays.pdf,OK
+17,3421,Distinct Values Subsequences,Sorting and Searching,https://cses.fi/problemset/task/3421,17_3421_Distinct_Values_Subsequences.pdf,OK
+18,2162,Josephus Problem I,Sorting and Searching,https://cses.fi/problemset/task/2162,18_2162_Josephus_Problem_I.pdf,OK
+19,2163,Josephus Problem II,Sorting and Searching,https://cses.fi/problemset/task/2163,19_2163_Josephus_Problem_II.pdf,OK
+20,2168,Nested Ranges Check,Sorting and Searching,https://cses.fi/problemset/task/2168,20_2168_Nested_Ranges_Check.pdf,OK
+21,2169,Nested Ranges Count,Sorting and Searching,https://cses.fi/problemset/task/2169,21_2169_Nested_Ranges_Count.pdf,OK
+22,1164,Room Allocation,Sorting and Searching,https://cses.fi/problemset/task/1164,22_1164_Room_Allocation.pdf,OK
+23,1620,Factory Machines,Sorting and Searching,https://cses.fi/problemset/task/1620,23_1620_Factory_Machines.pdf,OK
+24,1630,Tasks and Deadlines,Sorting and Searching,https://cses.fi/problemset/task/1630,24_1630_Tasks_and_Deadlines.pdf,OK
+25,1631,Reading Books,Sorting and Searching,https://cses.fi/problemset/task/1631,25_1631_Reading_Books.pdf,OK
+26,1641,Sum of Three Values,Sorting and Searching,https://cses.fi/problemset/task/1641,26_1641_Sum_of_Three_Values.pdf,OK
+27,1642,Sum of Four Values,Sorting and Searching,https://cses.fi/problemset/task/1642,27_1642_Sum_of_Four_Values.pdf,OK
+28,1645,Nearest Smaller Values,Sorting and Searching,https://cses.fi/problemset/task/1645,28_1645_Nearest_Smaller_Values.pdf,OK
+29,1660,Subarray Sums I,Sorting and Searching,https://cses.fi/problemset/task/1660,29_1660_Subarray_Sums_I.pdf,OK
+30,1661,Subarray Sums II,Sorting and Searching,https://cses.fi/problemset/task/1661,30_1661_Subarray_Sums_II.pdf,OK
+31,1662,Subarray Divisibility,Sorting and Searching,https://cses.fi/problemset/task/1662,31_1662_Subarray_Divisibility.pdf,OK
+32,2428,Distinct Values Subarrays II,Sorting and Searching,https://cses.fi/problemset/task/2428,32_2428_Distinct_Values_Subarrays_II.pdf,OK
+33,1085,Array Division,Sorting and Searching,https://cses.fi/problemset/task/1085,33_1085_Array_Division.pdf,OK
+34,1632,Movie Festival II,Sorting and Searching,https://cses.fi/problemset/task/1632,34_1632_Movie_Festival_II.pdf,OK
+35,1644,Maximum Subarray Sum II,Sorting and Searching,https://cses.fi/problemset/task/1644,35_1644_Maximum_Subarray_Sum_II.pdf,OK
