@@ -1,0 +1,61 @@
+﻿contestId,index,name,rating,tags,url,pdf,status
+252,A,Little Xor,1100,brute force;implementation,https://codeforces.com/problemset/problem/252/A,[1100]_252A_Little_Xor.pdf,OK
+389,B,Fox and Cross,1100,greedy;implementation,https://codeforces.com/problemset/problem/389/B,[1100]_389B_Fox_and_Cross.pdf,OK
+505,A,Mr. Kitayuta's Gift,1100,brute force;implementation;strings,https://codeforces.com/problemset/problem/505/A,[1100]_505A_Mr._Kitayuta's_Gift.pdf,OK
+602,A,Two Bases,1100,brute force;implementation,https://codeforces.com/problemset/problem/602/A,[1100]_602A_Two_Bases.pdf,OK
+651,A,Joysticks,1100,dp;greedy;implementation;math,https://codeforces.com/problemset/problem/651/A,[1100]_651A_Joysticks.pdf,OK
+754,B,Ilya and tic-tac-toe game,1100,brute force;implementation,https://codeforces.com/problemset/problem/754/B,[1100]_754B_Ilya_and_tic-tac-toe_game.pdf,OK
+758,B,Blown Garland,1100,brute force;implementation;number theory,https://codeforces.com/problemset/problem/758/B,[1100]_758B_Blown_Garland.pdf,OK
+813,A,The Contest,1100,implementation,https://codeforces.com/problemset/problem/813/A,[1100]_813A_The_Contest.pdf,OK
+869,A,The Artful Expedient,1100,brute force;implementation,https://codeforces.com/problemset/problem/869/A,[1100]_869A_The_Artful_Expedient.pdf,OK
+898,B,Proper Nutrition,1100,brute force;implementation;number theory,https://codeforces.com/problemset/problem/898/B,[1100]_898B_Proper_Nutrition.pdf,OK
+902,A,Visiting a Friend,1100,greedy;implementation,https://codeforces.com/problemset/problem/902/A,[1100]_902A_Visiting_a_Friend.pdf,OK
+1862,C,Flower City Fence,1100,binary search;data structures;implementation;sortings,https://codeforces.com/problemset/problem/1862/C,[1100]_1862C_Flower_City_Fence.pdf,OK
+2009,C,The Legend of Freya the Frog,1100,implementation;math,https://codeforces.com/problemset/problem/2009/C,[1100]_2009C_The_Legend_of_Freya_the_Frog.pdf,OK
+48,B,Land Lot,1200,brute force;implementation,https://codeforces.com/problemset/problem/48/B,[1200]_48B_Land_Lot.pdf,OK
+208,D,"Prizes, Prizes, more Prizes",1200,implementation,https://codeforces.com/problemset/problem/208/D,"[1200]_208D_Prizes,_Prizes,_more_Prizes.pdf",OK
+292,B,Network Topology,1200,graphs;implementation,https://codeforces.com/problemset/problem/292/B,[1200]_292B_Network_Topology.pdf,OK
+574,A,Bear and Elections,1200,greedy;implementation,https://codeforces.com/problemset/problem/574/A,[1200]_574A_Bear_and_Elections.pdf,OK
+612,B,HDD is Outdated Technology,1200,implementation;math,https://codeforces.com/problemset/problem/612/B,[1200]_612B_HDD_is_Outdated_Technology.pdf,OK
+645,A,Amity Assessment,1200,brute force;constructive algorithms;implementation,https://codeforces.com/problemset/problem/645/A,[1200]_645A_Amity_Assessment.pdf,OK
+743,A,Vladik and flights,1200,constructive algorithms;greedy;implementation,https://codeforces.com/problemset/problem/743/A,[1200]_743A_Vladik_and_flights.pdf,OK
+903,B,The Modcrab,1200,greedy;implementation,https://codeforces.com/problemset/problem/903/B,[1200]_903B_The_Modcrab.pdf,OK
+908,B,New Year and Buggy Bot,1200,brute force;implementation,https://codeforces.com/problemset/problem/908/B,[1200]_908B_New_Year_and_Buggy_Bot.pdf,OK
+985,B,Switches and Lamps,1200,implementation,https://codeforces.com/problemset/problem/985/B,[1200]_985B_Switches_and_Lamps.pdf,OK
+1051,A,Vasya And Password,1200,greedy;implementation;strings,https://codeforces.com/problemset/problem/1051/A,[1200]_1051A_Vasya_And_Password.pdf,OK
+1537,C,Challenging Cliffs,1200,constructive algorithms;greedy;implementation;math,https://codeforces.com/problemset/problem/1537/C,[1200]_1537C_Challenging_Cliffs.pdf,OK
+1578,E,Easy Scheduling,1200,implementation;math,https://codeforces.com/problemset/problem/1578/E,[1200]_1578E_Easy_Scheduling.pdf,OK
+1657,C,Bracket Sequence Deletion,1200,greedy;implementation,https://codeforces.com/problemset/problem/1657/C,[1200]_1657C_Bracket_Sequence_Deletion.pdf,OK
+1674,D,A-B-C Sort,1200,constructive algorithms;implementation;sortings,https://codeforces.com/problemset/problem/1674/D,[1200]_1674D_A-B-C_Sort.pdf,OK
+1992,D,Test of Love,1200,dp;greedy;implementation,https://codeforces.com/problemset/problem/1992/D,[1200]_1992D_Test_of_Love.pdf,OK
+44,C,Holidays,1300,implementation,https://codeforces.com/problemset/problem/44/C,[1300]_44C_Holidays.pdf,OK
+60,A,Where Are My Flakes?,1300,implementation;two pointers,https://codeforces.com/problemset/problem/60/A,[1300]_60A_Where_Are_My_Flakes.pdf,OK
+192,A,Funky Numbers,1300,binary search;brute force;implementation,https://codeforces.com/problemset/problem/192/A,[1300]_192A_Funky_Numbers.pdf,OK
+222,B,Cosmic Tables,1300,data structures;implementation,https://codeforces.com/problemset/problem/222/B,[1300]_222B_Cosmic_Tables.pdf,OK
+230,B,T-primes,1300,binary search;implementation;math;number theory,https://codeforces.com/problemset/problem/230/B,[1300]_230B_T-primes.pdf,OK
+347,A,Difference Row,1300,constructive algorithms;implementation;sortings,https://codeforces.com/problemset/problem/347/A,[1300]_347A_Difference_Row.pdf,OK
+598,B,Queries on a String,1300,implementation;strings,https://codeforces.com/problemset/problem/598/B,[1300]_598B_Queries_on_a_String.pdf,OK
+740,A,Alyona and copybooks,1300,brute force;implementation,https://codeforces.com/problemset/problem/740/A,[1300]_740A_Alyona_and_copybooks.pdf,OK
+770,B,Maximize Sum of Digits,1300,*special;implementation;math,https://codeforces.com/problemset/problem/770/B,[1300]_770B_Maximize_Sum_of_Digits.pdf,OK
+1176,C,Lose it!,1300,dp;greedy;implementation,https://codeforces.com/problemset/problem/1176/C,[1300]_1176C_Lose_it!.pdf,OK
+1807,E,Interview,1300,binary search;implementation;interactive,https://codeforces.com/problemset/problem/1807/E,[1300]_1807E_Interview.pdf,OK
+1846,E1,Rudolf and Snowflakes (simple version),1300,brute force;implementation;math,https://codeforces.com/problemset/problem/1846/E1,[1300]_1846E1_Rudolf_and_Snowflakes_(simple_version).pdf,OK
+2108,B,SUMdamental Decomposition,1300,bitmasks;constructive algorithms;greedy;implementation;math,https://codeforces.com/problemset/problem/2108/B,[1300]_2108B_SUMdamental_Decomposition.pdf,OK
+124,B,Permutations,1400,brute force;combinatorics;implementation,https://codeforces.com/problemset/problem/124/B,[1400]_124B_Permutations.pdf,OK
+174,B,File List,1400,dp;greedy;implementation,https://codeforces.com/problemset/problem/174/B,[1400]_174B_File_List.pdf,OK
+219,B,Special Offer! Super Price 999 Bourles!,1400,implementation,https://codeforces.com/problemset/problem/219/B,[1400]_219B_Special_Offer!_Super_Price_999_Bourles!.pdf,OK
+313,C,Ilya and Matrix,1400,constructive algorithms;greedy;implementation;sortings,https://codeforces.com/problemset/problem/313/C,[1400]_313C_Ilya_and_Matrix.pdf,OK
+470,A,Crystal Ball Sequence,1400,*special;implementation,https://codeforces.com/problemset/problem/470/A,[1400]_470A_Crystal_Ball_Sequence.pdf,OK
+475,B,Strongly Connected City,1400,brute force;dfs and similar;graphs;implementation,https://codeforces.com/problemset/problem/475/B,[1400]_475B_Strongly_Connected_City.pdf,OK
+493,B,Vasya and Wrestling,1400,implementation,https://codeforces.com/problemset/problem/493/B,[1400]_493B_Vasya_and_Wrestling.pdf,OK
+699,B,One Bomb,1400,implementation,https://codeforces.com/problemset/problem/699/B,[1400]_699B_One_Bomb.pdf,OK
+770,D,Draw Brackets!,1400,*special;implementation,https://codeforces.com/problemset/problem/770/D,[1400]_770D_Draw_Brackets!.pdf,OK
+816,B,Karen and Coffee,1400,binary search;data structures;implementation,https://codeforces.com/problemset/problem/816/B,[1400]_816B_Karen_and_Coffee.pdf,OK
+929,A,Прокат велосипедов,1400,*special;greedy;implementation,https://codeforces.com/problemset/problem/929/A,[1400]_929A_Прокат_велосипедов.pdf,OK
+1066,C,Books Queries,1400,implementation,https://codeforces.com/problemset/problem/1066/C,[1400]_1066C_Books_Queries.pdf,OK
+1190,A,Tokitsukaze and Discard Items,1400,implementation;two pointers,https://codeforces.com/problemset/problem/1190/A,[1400]_1190A_Tokitsukaze_and_Discard_Items.pdf,OK
+1284,B,New Year and Ascent Sequence,1400,binary search;combinatorics;data structures;dp;implementation;sortings,https://codeforces.com/problemset/problem/1284/B,[1400]_1284B_New_Year_and_Ascent_Sequence.pdf,OK
+1363,B,Subsequence Hate,1400,implementation;strings,https://codeforces.com/problemset/problem/1363/B,[1400]_1363B_Subsequence_Hate.pdf,OK
+1682,C,LIS or Reverse LIS?,1400,constructive algorithms;greedy;implementation;math,https://codeforces.com/problemset/problem/1682/C,[1400]_1682C_LIS_or_Reverse_LIS.pdf,OK
+1684,C,Column Swapping,1400,brute force;constructive algorithms;greedy;implementation;sortings,https://codeforces.com/problemset/problem/1684/C,[1400]_1684C_Column_Swapping.pdf,OK
+2084,C,You Soared Afar With Grace,1400,constructive algorithms;data structures;greedy;implementation,https://codeforces.com/problemset/problem/2084/C,[1400]_2084C_You_Soared_Afar_With_Grace.pdf,OK
